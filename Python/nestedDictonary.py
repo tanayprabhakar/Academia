@@ -1,0 +1,13 @@
+rec={
+    'name':'Bob',
+    'jobs':['developer','manager'],
+    'web':'www.bobs.org/~bob',
+    'home':{'state':'Overworked','zip':12345}
+}
+print(rec['name'])
+print(rec['jobs'])
+print(rec['jobs'][1])
+print(rec['home']['zip'])
+s=list('whats')
+print(s)
+print(list(range(-4,4)))

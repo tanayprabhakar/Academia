@@ -1,0 +1,5 @@
+print("The data stored are:")
+fileobject=open("mybinary.dat","rb")
+objectvar=pickle.load(fileobject)
+fileobject.close()
+print(objectvar)

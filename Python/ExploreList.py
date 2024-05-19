@@ -1,0 +1,11 @@
+L=[23,21,"hello"]
+L.append(27)
+print(L)
+L.extend([17,12,123])
+print(L)
+L.pop(3)
+print(L)
+L.insert(2,"tanay")
+print(L)
+L.remove("hello")
+print(L)
