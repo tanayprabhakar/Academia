@@ -1,0 +1,10 @@
+import numpy as np
+matrix1 = np.array([[12,123,12],[4,231,23],[345,232,23]])
+matrix2 = np.array([[12,123,12],[4,231,23],[345,232,23]])
+result = np.dot(matrix1, matrix2)
+print("Matrix 1:")
+print(matrix1)
+print("\nMatrix 2:")
+print(matrix2)
+print("\nResult of matrix multiplication:")
+print(result)
