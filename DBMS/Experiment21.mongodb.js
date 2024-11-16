@@ -1,4 +1,3 @@
-use hotelDB
 db.createCollection('hotels')
 
 db.hotels.insertMany([
