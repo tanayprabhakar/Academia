@@ -1,0 +1,3 @@
+Hello from the file!
+This is line 2.
+Java file reading is fun.
